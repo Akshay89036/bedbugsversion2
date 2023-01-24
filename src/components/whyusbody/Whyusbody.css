@@ -1,0 +1,84 @@
+.abc{
+    
+    font-weight: bold;
+    font-size: 30px;
+    
+    color:#A8BC40;
+}
+.ce{
+    color: black;
+   font-size:50px ;
+   text-align: center;
+   margin-bottom: 20px;
+   margin-top: 20px;
+}
+.cf{
+    font-size:28px !important ;
+   text-align: center;
+   margin-bottom: 40px;
+   margin-top: 20px;
+   
+}
+
+.cc{
+    color: black;
+    font-size:20px ;
+}
+
+.cd{
+    font-size: 55px;
+}
+
+.he{
+    height: inherit;
+
+    margin: 10px 10px 50px 10px;
+}
+
+.be{
+    height: inherit;
+    margin: 0px 10px 50px 10px;
+}
+
+.adds{
+    background-color: #D1D7DC;
+}
+
+.hede{
+   font-size: 80px;
+   color: #A8BC40;
+   font-weight: bold;
+}
+
+.ri{
+   margin-left: 0px;
+   font-size: 20px;
+   font-weight: 300;
+
+}
+ul{
+    list-style-type: circle !important;
+}
+.beeed{
+    margin: 0px 10px 100px 10px;
+}
+
+.editt{
+    font-weight: bold;
+    margin: 0px 0px 0px 0px;
+    padding: 10px 0px 0px 40px;
+   
+}
+
+.coo{ font-weight: bold;
+    text-align: center;
+   
+    text-decoration: underline;
+}
+.cold{
+    color: balck;
+    font-weight: 500;
+    font-size: 1.25rem ;
+   
+}
+

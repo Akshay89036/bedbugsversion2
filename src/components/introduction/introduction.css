@@ -1,0 +1,124 @@
+.banner_h3{
+    font-family: 'nunito',sans-serif;
+    font-weight: 700;
+    font-style: none;
+    font-size: 2.5em;
+    letter-spacing: 0em;
+    text-transform: none;
+    line-height: 1.2em;
+    color: #fff;
+}
+
+.stim{
+    max-width: 50%;
+    height: 50%; 
+}
+
+.banner_h4{
+    font-family: 'nunito',sans-serif;
+    font-style: none;
+    font-size: 1.5em;
+    letter-spacing: 0em;
+    text-transform: none;
+    line-height: 1.2em;
+    color: #fff;
+}
+
+.banner_p{
+    font-family: 'nunito',sans-serif;
+    font-style: normal;
+    font-size: 1.25em;
+    letter-spacing: 0em;
+    line-height: 1.5em;
+    text-transform: none;
+}
+.mainconatiner{
+margin: 40px auto;
+
+}
+.brform{
+    border: 1px solid grey;
+    background-color:#A8BD40;
+}
+
+.forminput{
+    display: block;
+    margin: 5% auto;
+    min-width: 90%;
+    padding:5px 10px ;
+    border-radius: 10px;
+    
+}
+
+.formwrap{
+    padding: 10px;
+    align-items: center;
+}
+.formheading{
+    align-items: centre;
+    color: black;
+    font-size: 28px;
+}
+
+.formbutton{
+
+    border: none;
+    padding: 7px 26px;
+    text-align: center;
+    color: white;
+    background: green;
+    border-radius: 40px;
+    font-weight: bold;
+}
+.formheadingdiv{
+    display: inline;
+    align-items: center;
+}
+
+.cardwrapper{
+    display: flex;
+    border: 1px solid red;
+}
+
+.cardwrapper > * { flex: 1; }
+
+.servcard{
+    border: 1px solid red;
+    margin: 20% 10px 1% 10px;
+}
+
+.state{
+    flex-direction:column;
+
+}
+
+.ser{
+    margin: 40px 40px 40px 40px;
+    display: flex;
+   justify-content: space-evenly;
+   
+}
+
+.servicesgap{
+padding-top: 30px;
+   
+    
+
+}
+.servicesgap .sa{
+    border: 2px dotted #A8BD40;
+    padding: 10px;
+
+
+
+}
+ 
+.left{
+
+    text-align: justify;
+}
+
+
+.ric{
+    color:#A8BD40;
+}

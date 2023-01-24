@@ -1,0 +1,22 @@
+.caption{
+   
+    color: red;
+    font-weight: bold;
+        font-size: 50px;
+        text-align: center;
+}
+
+.headings{
+    
+    color: gray;
+    font-weight: bold;
+        font-size: 20px;
+        text-align: center;
+    padding: 40px 40px 40px 40px;
+    
+    }
+
+    .fonty{
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+    }
