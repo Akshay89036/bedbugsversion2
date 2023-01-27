@@ -1,6 +1,7 @@
 import React from "react";
 import "./contact.css";
 import { useEffect } from "react";
+import { AddressAutofill } from "@mapbox/search-js-react";
 
 const ContactUs = () => {
   useEffect(() => {
